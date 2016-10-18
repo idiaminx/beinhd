@@ -19,6 +19,7 @@ gem "minima"
  gem "github-pages", group: :jekyll_plugins do
 	gem 'jekyll-seo-tag'
 	gem "jekyll-github-metadata"
+	gem 'net-dns'
 end
 
 # If you have any plugins, put them here!

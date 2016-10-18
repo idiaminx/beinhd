@@ -135,9 +135,3 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   minima
-
-RUBY VERSION
-   ruby 2.2.5p319
-
-BUNDLED WITH
-   1.13.1
