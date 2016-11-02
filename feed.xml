@@ -5,8 +5,13 @@
     <description>Sitio dedicado a informar cómo obtener gratis un dominio y un certificado en un hospedaje de GitHub Pages. Además canales de deportes (iptv).</description>
     <link>http://3wirework.tk/</link>
     <atom:link href="http://3wirework.tk/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Wed, 02 Nov 2016 20:04:05 +0100</pubDate>
     <lastBuildDate>Wed, 02 Nov 2016 20:04:05 +0100</lastBuildDate>
+=======
+    <pubDate>Sat, 29 Oct 2016 18:46:49 +0200</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2016 18:46:49 +0200</lastBuildDate>
+>>>>>>> 38ee0fe3803a961c09aefa838ee04613432bf0c0
     <generator>Jekyll v3.2.1</generator>
     
       <item>
